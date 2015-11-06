@@ -1,6 +1,6 @@
 (defproject inc-deprimer "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://github.com"
+  :description "A simple Web API that accepts operations and a list of numbers and returns the result of applying those operations on the numbers"
+  :url "https://github.com/sh0guni/inc-deprimer"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [compojure "1.3.2"]
